@@ -1,9 +1,6 @@
 # 14张速查表，带你玩转 Python 数据科学
 译自 DataCamp 的速查表，有兴趣的朋友可以在这里查看[英文原版](https://www.datacamp.com/community/data-science-cheatsheets)。
 
-欢迎扫描二维码关注我的 **呆鸟的Python数据分析** 公众号，虽然现在内容还比较少，但我会不断增加的。
-
-![呆鸟的Python数据分析](https://upload-images.jianshu.io/upload_images/3240514-6a4349fff3b8b019.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 一、[Python 基础系列](https://www.jianshu.com/p/4574d95755db)
 
@@ -57,8 +54,3 @@
 * [Python数据科学速查表 - Spark RDD 基础](https://github.com/jaystone776/python-data-science-cheatsheet/blob/master/Python%E6%95%B0%E6%8D%AE%E7%A7%91%E5%AD%A6%E9%80%9F%E6%9F%A5%E8%A1%A8%20-%20Spark%20RDD%20%E5%9F%BA%E7%A1%80.pdf)
 ![RDD.png](https://upload-images.jianshu.io/upload_images/3240514-43308e4ca89d8699.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
-如果喜欢本文，敬请关注我的简书专题 **[呆鸟的Python数据分析](https://www.jianshu.com/c/38980843c0f2)** 
-
-感谢**天善智能**的**Python爱好者社区**公众号一直以来对我的支持，这里也大力推荐，是我学习入门 Python 数据分析入门的引路者，欢迎关注！
-
-![Python爱好者社区](https://upload-images.jianshu.io/upload_images/3240514-29c87337342b0904.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
